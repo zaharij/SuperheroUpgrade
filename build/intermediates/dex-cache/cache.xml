@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_315bb9fc6e28b3c0ceb86f009ec674c3f0fab461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_701a2bb65a2fd2c4977645bbe45868dcccea839c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_7a684bc070480a09e6c00558fe7099c76cffa02f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_e007ae133a6290856e1fd4d790767f09e3ace1e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_28531bdec6a464d727c83faac86f63a0e5404005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zakhar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_70e6ec8d261c4e32b9afbcd94f4523077df5e958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2034db50c8dcb97d67a383f0929256ef78369ee">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\instant-run_ada4659fddb6f0cded1db353abc929523304493c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_7863a90add62a16554e3a91769d46aaf6727c22e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ce22a87e73200fce57e3ad861e4daa6755e9ae2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b63b7c2b569fec74779e78698b65a469e22dde50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b4f01e12ab0600280d67ef152b5179267f160fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1b8d2ece1efbfb88dd9f25855bbc0f7297d8ccf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_25ca5dd922eb108fa9c9dbd65fef4524bdf68d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_658175a85c10fc6e2a503c582d002b1ca7589209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a3b9f52fb8ae7458b91e2e47eebfdf1f3a184542">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c194152b1d38423edfa14b96aa4bc02f47215cc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_c6b8e2237113bccbe2e70b58516bd01c76d8d3e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\SuperheroUpgrade\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\android\SuperheroUpgrade\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_315d0be278295f7f3725b9e9344ad1edd56e5d05.jar" />
+    </item>
+
+</items>
